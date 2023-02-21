@@ -1,0 +1,440 @@
+
+8.MONTAJE Y PRUEBA DE REQUISITOS (CRUC-SENTENCIAS SQL)
+
+SENTENCIAS
+En la base de datos tenemos cuatro clases de procedimientos, estos procedimientos son los que nos permiten hacer el CRUD desde el programa, así como también visualizar las vistas en el programa.
+
+Procedimientos de actualización
+Los procedimientos de actualización son los que nos permiten desde el programa actualizar registros de la base de datos, todos funcionan de la misma manera, se recibe un parámetro por cada uno de los campos de la tabla y del tipo de cada uno de estos, después, en la fase de definición definimos una variable para almacenar cada uno de los parámetros, seguimos con el BEGIN en donde ejecutamos el UPDATE y decimos que los valores de nuestras variables sean los que queden registrados cuando se cumpla la condición, esta condición es básicamente que el número de registro que recibimos como parámetro sea igual a el número del registro que se actualizará, por último definimos algunas excepciones para evitar errores.
+
+create or replace PROCEDURE actualizar_cia_seguro (idp in NUMBER,nom in varchar2, inc in DATE, fin in DATE, presio in NUMBER)
+as
+    vid number := idp;
+    vnom varchar(20) := nom;
+    vinc date := inc;
+    vfin date := fin;
+    vpresio number := presio;
+begin
+    update cia_seguro set nombre=vnom, FECHA_FIN_SEGURO=vfin, FECHA_INICIO_SEGURO=vinc, PRECIO_SEGURO=vpresio where ID=vid;
+EXCEPTION
+    when NO_DATA_FOUND then
+        null;
+    WHEN others then
+        raise;
+    end actualizar_cia_seguro;
+
+
+create or replace PROCEDURE actualizar_cliente_agencia (idp in NUMBER, nom in varchar2, dir in varchar2, pob in varchar2, nif in number, comision in number, per_con in varchar2)
+as
+    vid number := idp;
+    vnom varchar(50) := nom;
+    vdir varchar(15) := dir;
+    vpob varchar(20) :=pob;
+    vnif number :=nif;
+    vcomision number(15) :=comision;
+    vper_con varchar(50) :=per_con;
+begin
+    update cliente_agencia set nombre=vnom, POBLACION=vpob, DIRECCION=vdir,NIF=vnif,COMISION=vcomision, PERSONA_CONTACTO=vper_con where codigo=vid;
+EXCEPTION
+    when NO_DATA_FOUND then
+        null;
+    WHEN others then
+        raise;
+    end actualizar_cliente_agencia;
+
+
+create or replace PROCEDURE actualizar_cliente_directo (idp in NUMBER,tar_cred in number, nom in varchar2, dir in varchar2,tel in number,trato in varchar2, pob in varchar2, fax in varchar2, dni in number, car_con in varchar2, tip_tar in varchar2)
+as
+    vid number := idp;
+    vtar_cred number := tar_cred;
+    vnom varchar(20) := nom;
+    vdir varchar(20) := dir;
+    vtrato varchar(20) :=trato;
+    vtel number := tel;
+    vpob varchar(20) := pob;
+    vfax varchar(11) := fax;
+    vdni number := dni;
+    vcar_con varchar(15) :=car_con;
+    vtip_tar varchar(14) :=tip_tar;
+begin
+    update cliente_directo set TARJETA_DE_CREDITO=vtar_cred, NOMBRE=vnom, DIRECCION=vdir, TELEFONO=vtel,TRATO=vtrato, POBLACION=vpob, FAX=vfax, DNI=vdni, CARNET_DE_CONDUCIR=vcar_con, TIPO_DE_TARJETA=vtip_tar where codigo=vid;
+EXCEPTION
+    when NO_DATA_FOUND then
+        null;
+    WHEN others then
+        raise;
+    end actualizar_cliente_directo;
+
+
+create or replace PROCEDURE actualizar_contrato (NO_DE_CONTRATOp in	NUMBER,
+SUBTOTAL_ALQUILERp in	NUMBER,
+CANTIDAD__RENTA__VEHICULOp in	NUMBER,
+FECHAp in	DATE,
+FECHA_DE_ENTREGAp in	DATE,
+TOTAL_IMPORTEp in	NUMBER,
+COMBUSTIBLEp in	NUMBER,
+IVAp in	NUMBER,
+SUBTOTAL_COMPLEMENTOSp in	VARCHAR2,
+VALOR_POR_DIA_DE_EXTRASp in	NUMBER,
+CANTIDAD_DE_DIAS_DE_EXTRASp in	NUMBER,
+VALOR_POR_DIA_DEL_VEHICULOp in	NUMBER,
+DESCUENTOp in	NUMBER,
+SUCURSALp in	VARCHAR2,
+HORAp in	NUMBER,
+CODIGO_CLIENTE_DIRECTOp in	NUMBER,
+CODIGO_CLIENTE_AGENCIAp in	NUMBER,
+MATRICULA_VEHICULOp in	VARCHAR2)
+as
+    vNO_DE_CONTRATO	NUMBER := NO_DE_CONTRATOp;
+    vSUBTOTAL_ALQUILER	NUMBER := SUBTOTAL_ALQUILERp;
+    vCANTIDAD__RENTA__VEHICULO	NUMBER := CANTIDAD__RENTA__VEHICULOp;
+    vFECHA	DATE:= FECHAp;
+    vFECHA_DE_ENTREGA	DATE:= FECHA_DE_ENTREGAp;
+    vTOTAL_IMPORTE	NUMBER:= TOTAL_IMPORTEp;
+    vCOMBUSTIBLE	NUMBER:=  COMBUSTIBLEp;
+    vIVA	NUMBER:= IVAp;
+    vSUBTOTAL_COMPLEMENTOS	VARCHAR2(52):= SUBTOTAL_COMPLEMENTOSp;
+    vVALOR_POR_DIA_DE_EXTRAS	NUMBER:= VALOR_POR_DIA_DE_EXTRASp;
+    vCANTIDAD_DE_DIAS_DE_EXTRAS	NUMBER:= CANTIDAD_DE_DIAS_DE_EXTRASp;
+    vVALOR_POR_DIA_DEL_VEHICULO	NUMBER:= VALOR_POR_DIA_DEL_VEHICULOp;
+    vDESCUENTO	NUMBER:= DESCUENTOp;
+    vSUCURSAL	VARCHAR2(20):=SUCURSALp;
+    vHORA	NUMBER:= HORAp;
+    vCODIGO_CLIENTE_DIRECTO	NUMBER:= CODIGO_CLIENTE_DIRECTOp;
+    vCODIGO_CLIENTE_AGENCIA	NUMBER:= CODIGO_CLIENTE_AGENCIAp;
+    vMATRICULA_VEHICULO	VARCHAR2(6 ):= MATRICULA_VEHICULOp;
+
+begin
+    update contrato set  MATRICULA_VEHICULO=vMATRICULA_VEHICULO,
+    SUBTOTAL_ALQUILER=vSUBTOTAL_ALQUILER,
+    CANTIDAD_DE_RENTA_DEL_VEHICULO=vCANTIDAD__RENTA__VEHICULO,
+    FECHA=vFECHA,
+    FECHA_DE_ENTREGA=vFECHA_DE_ENTREGA,
+    TOTAL_IMPORTE=vTOTAL_IMPORTE,
+    COMBUSTIBLE=vCOMBUSTIBLE,
+    IVA=vIVA,
+    SUBTOTAL_COMPLEMENTOS=vSUBTOTAL_COMPLEMENTOS,
+    VALOR_POR_DIA_DE_EXTRAS=vVALOR_POR_DIA_DE_EXTRAS,
+    CANTIDAD_DE_DIAS_DE_EXTRAS=vCANTIDAD_DE_DIAS_DE_EXTRAS,
+    VALOR_POR_DIA_DEL_VEHICULO=vVALOR_POR_DIA_DEL_VEHICULO,
+    DESCUENTO=vDESCUENTO,
+    SUCURSAL=vSUCURSAL,
+    HORA=vHORA,
+    CODIGO_CLIENTE_DIRECTO=vCODIGO_CLIENTE_DIRECTO,
+    CODIGO_CLIENTE_AGENCIA=vCODIGO_CLIENTE_AGENCIA
+    where NO_DE_CONTRATO=vNO_DE_CONTRATO;
+EXCEPTION
+    when NO_DATA_FOUND then
+        null;
+    WHEN others then
+        raise;
+    end actualizar_contrato;
+
+
+create or replace PROCEDURE actualizar_tarifa_seguro (idp in NUMBER,GRUPOp in varchar2, TARIFA_FURGONETAp in NUMBER, TARIFA_TURISMOp in NUMBER, ID_CIA_SEGUROp in NUMBER)
+as
+    vid NUMBER := idp;
+    vGRUPO varchar(20) := GRUPOp;
+    vTARIFA_FURGONETA NUMBER := TARIFA_FURGONETAp;
+    vTARIFA_TURISMO NUMBER := TARIFA_TURISMOp;
+    vID_CIA_SEGURO NUMBER := ID_CIA_SEGUROp;
+
+begin
+    update tarifa_seguro set grupo=vGRUPO, TARIFA_FURGONETA=vTARIFA_FURGONETA, TARIFA_TURISMO=vTARIFA_TURISMO, ID_CIA_SEGURO=vID_CIA_SEGURO  where ID=vid;
+EXCEPTION
+    when NO_DATA_FOUND then
+        null;
+    WHEN others then
+        raise;
+    end actualizar_tarifa_seguro;
+
+
+create or replace PROCEDURE actualizar_vehiculo (MATRICULAp in	VARCHAR2, MARCAp IN	VARCHAR2,CLASEp	in VARCHAR2,GRUPOp	in VARCHAR2,FECHA_DE_COMPRAp in	DATE,KILOMETRAJEp in NUMBER, MODELOp in VARCHAR2,
+ID_TARIFA_SEGUROp in NUMBER)
+as
+    vmatricula VARCHAR2(6) := MATRICULAp;
+    vmarca varchar(20) := MARCAp;
+    vclase VARCHAR2(10) := CLASEp;
+    vgrupo VARCHAR2(10) := GRUPOp;
+    vfec_com DATE := FECHA_DE_COMPRAp;
+    vKILOMETRAJE NUMBER := KILOMETRAJEp ;
+    vMODELO	VARCHAR2(10) := MODELOp;
+    vID_TARIFA_SEGURO NUMBER := ID_TARIFA_SEGUROp;
+begin
+    update vehiculo set marca=vmarca, clase=vclase, grupo=vgrupo, FECHA_DE_COMPRA=vfec_com, KILOMETRAJE=vKILOMETRAJE, MODELO=vMODELO, ID_TARIFA_SEGURO=vID_TARIFA_SEGURO  where matricula=vmatricula;
+EXCEPTION
+    when NO_DATA_FOUND then
+        null;
+    WHEN others then
+        raise;
+    end actualizar_vehiculo;
+
+
+
+Los procedimientos de eliminación son los que permiten desde el programa eliminar un registro, todos funcionan con la misma estructura, se define el procedimiento su nombre y se recibe como parámetro la llave primaria del registro a eliminar, este parámetro se guarda en una variable y después en el BEGIN se ejecuta el el DELETE para el registro que cumpla la condición de que su llave primaria sea igual a la de la variable.
+
+create or replace PROCEDURE eliminar_cia_seguro (idp in NUMBER)
+as
+    vid number := idp;
+begin
+    delete from cia_seguro WHERE ID=vid;
+end;
+
+
+create or replace PROCEDURE eliminar_cliente_directo (idp in NUMBER)
+as
+    vid number := idp;
+begin
+    delete from cliente_directo WHERE CODIGO=vid;
+end;
+
+
+create or replace PROCEDURE eliminar_cliente_intermediario (idp in NUMBER)
+as
+    vid number := idp;
+begin
+    delete from cliente_agencia WHERE CODIGO=vid;
+end;
+
+
+create or replace PROCEDURE eliminar_contrato(idp in NUMBER)
+as
+    vid number := idp;
+begin
+    delete from contrato WHERE no_de_contrato=vid;
+end;
+
+
+create or replace PROCEDURE eliminar_tarifa_seguro(idp in NUMBER)
+as
+    vid NUMBER := idp;
+begin
+    delete from tarifa_seguro WHERE id=vid;
+end;
+
+
+create or replace PROCEDURE eliminar_vehiculo(idp in varchar2)
+as
+    vid varchar2(6) := idp;
+begin
+    delete from vehiculo WHERE matricula=vid;
+end;
+
+
+Los procedimientos de insertar nos permitirán insertar registros desde el programa, todos funcionan con la misma estructura reciben un parámetro por cada uno de los campos de la tabla y estos parámetros son directamente insertados en el BEGIN mediante el INSERT INTO - VALUES
+
+
+create or replace procedure insertar (nom in varchar2,cont in VARCHAR2)
+as
+    Begin 
+        insert into USUARIO(usuario, password) values (nom, cont);
+    end;
+
+create or replace procedure insertar_cia_seguro (nom in varchar2, inc in DATE, fin in DATE, presio in NUMBER)
+as
+    Begin 
+        insert into CIA_SEGURO (NOMBRE, FECHA_FIN_SEGURO, FECHA_INICIO_SEGURO, PRECIO_SEGURO) VALUES (nom, fin, inc, presio);
+    end;
+
+create or replace procedure insertar_cliente_agencia  (nom in varchar2, dir in varchar2, pob in varchar2, nif in number, comision in number, per_con in varchar2)
+as
+    Begin 
+        insert into CLIENTE_AGENCIA (NOMBRE,DIRECCION,POBLACION,NIF,COMISION,PERSONA_CONTACTO) VALUES (nom, dir, pob, nif, comision, per_con);
+    end;
+
+
+create or replace procedure insertar_cliente_directo  (tar_cred in number, nom in varchar2, dir in varchar2,tel in number,trato in varchar2, pob in varchar2, fax in varchar2, dni in number, car_con in varchar2, tip_tar in varchar2)
+as
+    Begin 
+        insert into CLIENTE_DIRECTO (TARJETA_DE_CREDITO,NOMBRE,DIRECCION,TELEFONO,TRATO,POBLACION,FAX,DNI,CARNET_DE_CONDUCIR,TIPO_DE_TARJETA) VALUES (tar_cred, nom, dir, tel, trato, pob, fax, dni, car_con, tip_tar);
+    end;
+
+
+create or replace procedure insertar_contrato(sub_alq in NUMBER, can_ren in number, fec in DATE, fech_ent in DATE, tot_imp in NUMBER,combustible in NUMBER,
+iva in number, sub_tot_com in VARCHAR2, val_ext in NUMBER, can_dia_ext in NUMBER, val_dia_veh in NUMBER, descuento in NUMBER, sucursal in VARCHAR2, hora in number, 
+cod_cli_dir in NUMBER, cod_cli_age in NUMBER, mat_veh in VARCHAR2)
+as
+    Begin 
+        insert into contrato (SUBTOTAL_ALQUILER,CANTIDAD_DE_RENTA_DEL_VEHICULO,FECHA,FECHA_DE_ENTREGA,
+        TOTAL_IMPORTE,COMBUSTIBLE,IVA,SUBTOTAL_COMPLEMENTOS,VALOR_POR_DIA_DE_EXTRAS,CANTIDAD_DE_DIAS_DE_EXTRAS,VALOR_POR_DIA_DEL_VEHICULO,
+        DESCUENTO,SUCURSAL,HORA,CODIGO_CLIENTE_DIRECTO,CODIGO_CLIENTE_AGENCIA,MATRICULA_VEHICULO)
+        VALUES (sub_alq, can_ren, fec, fech_ent,tot_imp,combustible, iva, sub_tot_com,val_ext,can_dia_ext, val_dia_veh,descuento,sucursal,hora,cod_cli_dir,cod_cli_age,mat_veh );
+    end;
+
+create or replace procedure insertar_tarifa_seguro (grupo in varchar2, tar_furg in NUMBER, tar_tur in NUMBER, id_cia_seguro in NUMBER)
+as
+    Begin 
+        insert into tarifa_seguro (GRUPO,TARIFA_FURGONETA,TARIFA_TURISMO,ID_CIA_SEGURO) VALUES (grupo, tar_furg, tar_tur, id_cia_seguro);
+    end;
+
+create or replace procedure insertar_vehiculo (matriculap in varchar2, MARCAp in varchar2, CLASEp in varchar2, GRUPOp in varchar2,FECHA_DE_COMPRAp in DATE,
+KILOMETRAJEp in NUMBER, MODELO in varchar2, ID_TARIFA_SEGURO in NUMBER)
+as
+    Begin 
+        insert into vehiculo (MATRICULA,MARCA,CLASE,GRUPO,FECHA_DE_COMPRA,KILOMETRAJE,MODELO,ID_TARIFA_SEGURO) 
+        VALUES (matriculap, MARCAp, CLASEp, GRUPOp,FECHA_DE_COMPRAp, KILOMETRAJEp, MODELO, ID_TARIFA_SEGURO);
+    end;
+
+Para terminar los procedimientos tenemos los de selección, estos nos permiten cargar los datos de una tabla en un data grid view, para empezar recibe como parámetro un dato del tipo de la llave primaria de la tabla a mostrar además de un parámetro de salida de datos que es enviado desde el programa para poder mostrarlos, se guarda la llave primaria en una variable y después se pide en el BEGIN que se abran los registros que cumplan la condición de que su llave primaria sea igual a la enviada por el parámetro.
+
+create or replace PROCEDURE seleccionarAuto (registros out sys_refcursor, matriculap varchar2)
+as
+    v_matricula varchar(6) := matriculap;
+begin
+    open registros for select * FROM vehiculo WHERE UPPER(matricula)=UPPER(v_matricula);
+end;
+
+
+create or replace PROCEDURE seleccionarCiaSeguro (registros out sys_refcursor, pnombre varchar2)
+as
+    v_nombre varchar(20) := pnombre;
+begin
+    open registros for select * FROM CIA_SEGURO WHERE UPPER(nombre)=UPPER(v_nombre);
+end;
+
+
+create or replace PROCEDURE seleccionarClienteAgencia (registros out sys_refcursor, pnombre varchar2)
+as
+    v_nombre VARCHAR2(50) := pnombre;
+begin
+    open registros for select * FROM CLIENTE_AGENCIA WHERE UPPER(nombre)=UPPER(v_nombre);
+end;
+
+
+create or replace PROCEDURE seleccionarClienteDirecto (registros out sys_refcursor, pnombre varchar2)
+as
+    v_nombre VARCHAR2(20) := pnombre;
+begin
+    open registros for select * FROM CLIENTE_DIRECTO WHERE UPPER(nombre)=UPPER(v_nombre);
+end;
+
+
+create or replace PROCEDURE seleccionarContrato (registros out sys_refcursor, pnocontrato NUMBER)
+as
+    v_nocontrato number(10) := pnocontrato;
+begin
+    open registros for select * FROM CONTRATO WHERE no_de_contrato = v_nocontrato;
+end;
+
+
+create or replace PROCEDURE seleccionarSeguro (registros out sys_refcursor, pgrupo varchar2)
+as
+    v_grupo VARCHAR2(20) := pgrupo;
+begin
+    open registros for select * FROM tarifa_seguro WHERE UPPER(grupo)=UPPER(v_grupo);
+end;
+
+Existen dos procedimientos mas de selección que nos permiten mostrar las vistas en el programa, funcionan igual que las anteriores pero no reciben parámetro de llave primaria 
+
+create or replace PROCEDURE seleccionar_co_ve (registros out sys_refcursor)
+as
+begin
+    open registros for select * FROM contrato_vehiculo;
+end;
+create or replace PROCEDURE seleccionar_se_cia (registros out sys_refcursor)
+as
+begin
+    open registros for select * FROM seguro_cia_seguro;
+end;
+
+
+
+Tenemos disparadores que nos permiten automatizar las llaves primarias asignando el siguiente valor de una secuencia a estas
+
+create or replace trigger cia_seguro_tig
+    before insert on CIA_SEGURO
+        for each row
+    begin
+        select cia_seguro_seq.NEXTVAL
+        into :new.ID
+        from dual;
+    end;
+
+create or replace trigger cliente_agencia_tig
+    before insert on CLIENTE_AGENCIA
+        for each row
+    begin
+        select cliente_agencia_seq.NEXTVAL
+        into :new.CODIGO
+        from dual;
+    end;
+
+create or replace trigger cliente_directo_tig
+    before insert on CLIENTE_DIRECTO
+        for each row
+    begin
+        select cliente_directo_seq.NEXTVAL
+        into :new.CODIGO
+        from dual;
+    end;
+
+
+create or replace trigger contrato_trig
+    before insert on contrato
+        for each row
+    begin
+        select contrato_seq.nextval
+        into :new.no_de_contrato
+        from dual;
+    end;
+
+create or replace trigger tarifa_seguro_trg
+    before insert on tarifa_seguro
+        for each row
+    begin
+        select tarifa_seguro_seq.nextval
+        into :new.ID
+        from dual;
+    end;
+
+create or replace trigger usuario_trig
+    Before insert on usuario
+        for each row 
+    begin
+        select usuario_seq.NEXTVAl
+        into :new.ID
+        from dual;
+    end;
+
+tenemos en la base de datos una función aunque no pudimos encontrar la manera de visualizarla en el programa 
+
+create or replace FUNCTION Encontrar_id_cia_seguro(p_nombre cia_seguro.NOMBRE%type)
+RETURN NUMBER
+IS
+v_id_cia_seguro cia_seguro.id%type;
+BEGIN 
+SELECT ID INTO v_id_cia_seguro
+FROM CIA_SEGURO
+WHERE UPPER(nombre) like UPPER(p_nombre);
+RETURN v_id_cia_seguro;
+END;
+
+
+Por otro lado tenemos funciones y vistas.
+
+CREATE OR REPLACE VIEW seguro_cia_seguro
+AS
+(SELECT s.id "id_seguro",s.tarifa_furgoneta,s.tarifa_turismo,s.grupo,c.id "id_compañia_seguro",
+c.nombre,c.precio_seguro
+FROM tarifa_seguro s, cia_seguro c
+WHERE s.id_cia_seguro = c.id);
+
+
+CREATE OR REPLACE VIEW contrato_vehiculo
+AS
+SELECT c.NO_DE_CONTRATO, c.FECHA_DE_ENTREGA, v.MATRICULA, v.GRUPO, v.CLASE
+FROM contrato c, vehiculo v
+WHERE v.MATRICULA=c.MATRICULA_VEHICULO;
+
+
+create or replace FUNCTION Encontrar_id_cia_seguro(p_nombre cia_seguro.NOMBRE%type)
+RETURN NUMBER
+IS
+v_id_cia_seguro cia_seguro.id%type;
+BEGIN 
+SELECT ID INTO v_id_cia_seguro
+FROM CIA_SEGURO
+WHERE UPPER(nombre) like UPPER(p_nombre);
+RETURN v_id_cia_seguro;
+END;
+

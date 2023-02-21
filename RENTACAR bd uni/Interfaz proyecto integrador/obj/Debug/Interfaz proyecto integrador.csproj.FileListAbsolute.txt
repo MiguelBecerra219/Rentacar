@@ -1,0 +1,245 @@
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.exe.config
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.exe
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.pdb
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Form1.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Properties.Resources.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.GenerateResource.cache
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.exe
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.pdb
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\RestSharp.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Buffers.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.CodeDom.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Data.Odbc.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Data.OleDb.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Drawing.Common.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.IO.Packaging.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.IO.Ports.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Memory.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.Permissions.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.Fody.CopyLocal.cache
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.CopyComplete
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.exe.licenses
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Frmhome.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Autos.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.clientes.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.seguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarClientes.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearClientes.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarClientes.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarAutos.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearAutos.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.DeshabilitarAuto.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.EntregarAutos.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.HabilitarAuto.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarAutos.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.VenderAutos.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ClientesIntermediarios.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CompaniaDeSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarClienteIntermediario.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearClienteIntermediario.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearCompaniaSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarClienteIntermediario.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarCompaniaSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarCompaniaSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Contrato.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarContrato.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearContrato.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarContrato.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarAuto.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarCiaSeguros.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarCliente.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarClientesIntermediarios.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarContrato.resources
+C:\Users\PERSONAL\source\repos\Interfaz proyecto integrador\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.AssemblyReference.cache
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.SuggestedBindingRedirects.cache
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Autos.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarAutos.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarClienteIntermediario.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarClientes.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarCompaniaSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarContrato.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.clientes.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ClientesIntermediarios.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CompaniaDeSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarAuto.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarCiaSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarCliente.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarClientesIntermediarios.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarContrato.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Contrato.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearAutos.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearClienteIntermediario.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearClientes.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearCompaniaSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearContrato.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.EntregarAutos.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Form1.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Frmhome.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.HabilitarAuto.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarAutos.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarClienteIntermediario.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarClientes.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarCompaniaSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarContrato.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarSeguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Properties.Resources.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.seguros.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.VenderAutos.resources
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.GenerateResource.cache
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.exe.licenses
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.CoreCompileInputs.cache
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.exe
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.pdb
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.exe.config
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.exe
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.pdb
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Bunifu.UI.WinForms.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.Registry.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Newtonsoft.Json.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\RestSharp.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Buffers.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.CodeDom.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Data.Odbc.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Data.OleDb.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Data.SqlClient.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Diagnostics.EventLog.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Drawing.Common.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.IO.Packaging.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.IO.Ports.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Memory.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Numerics.Vectors.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.AccessControl.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Permissions.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Principal.Windows.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.ServiceModel.Syndication.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Threading.AccessControl.xml
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.Fody.CopyLocal.cache
+E:\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.CopyComplete
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.exe.config
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.exe
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Interfaz proyecto integrador.pdb
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\RestSharp.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Buffers.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.CodeDom.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Data.Odbc.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Data.OleDb.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Drawing.Common.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.IO.Packaging.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.IO.Ports.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Memory.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Permissions.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Autos.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarAutos.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarClienteIntermediario.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarClientes.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarCompaniaSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarContrato.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.BorrarSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.clientes.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ClientesIntermediarios.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CompaniaDeSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarAuto.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarCiaSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarCliente.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarClientesIntermediarios.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarContrato.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ConsultarSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Contrato.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearAutos.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearClienteIntermediario.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearClientes.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearCompaniaSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearContrato.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.CrearSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.EntregarAutos.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Form1.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Frmhome.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.HabilitarAuto.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarAutos.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarClienteIntermediario.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarClientes.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarCompaniaSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarContrato.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.ModificarSeguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.seguros.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz_proyecto_integrador.VenderAutos.resources
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.GenerateResource.cache
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.exe.licenses
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.Fody.CopyLocal.cache
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.csproj.CopyComplete
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.exe
+C:\Users\PERSONAL\Desktop\Entrega Rentacar G4\RENTACAR bd uni\Interfaz proyecto integrador\obj\Debug\Interfaz proyecto integrador.pdb
